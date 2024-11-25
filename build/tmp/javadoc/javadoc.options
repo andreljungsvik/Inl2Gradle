@@ -1,0 +1,17 @@
+-classpath 'C:\\Users\\user\\IdeaProjects\\library\\build\\classes\\java\\main;C:\\Users\\user\\IdeaProjects\\library\\build\\resources\\main'
+-d 'C:\\Users\\user\\IdeaProjects\\library\\build\\docs\\javadoc'
+-doctitle 'library 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'library 1.0-SNAPSHOT API'
+'C:\\Users\\user\\IdeaProjects\\library\\src\\main\\java\\se\\yrgo\\models\\Book.java'
+'C:\\Users\\user\\IdeaProjects\\library\\src\\main\\java\\se\\yrgo\\models\\BookCatalog.java'
+'C:\\Users\\user\\IdeaProjects\\library\\src\\main\\java\\se\\yrgo\\models\\BookNotFoundException.java'
+'C:\\Users\\user\\IdeaProjects\\library\\src\\main\\java\\se\\yrgo\\models\\Customer.java'
+'C:\\Users\\user\\IdeaProjects\\library\\src\\main\\java\\se\\yrgo\\models\\Loan.java'
+'C:\\Users\\user\\IdeaProjects\\library\\src\\main\\java\\se\\yrgo\\models\\LoanAlreadyExistsException.java'
+'C:\\Users\\user\\IdeaProjects\\library\\src\\main\\java\\se\\yrgo\\models\\LoanNotFoundException.java'
+'C:\\Users\\user\\IdeaProjects\\library\\src\\main\\java\\se\\yrgo\\models\\Material.java'
+'C:\\Users\\user\\IdeaProjects\\library\\src\\main\\java\\se\\yrgo\\ui\\Main.java'
+'C:\\Users\\user\\IdeaProjects\\library\\src\\main\\java\\se\\yrgo\\utilities\\GenderType.java'
+'C:\\Users\\user\\IdeaProjects\\library\\src\\main\\java\\se\\yrgo\\utilities\\LoanStatus.java'
